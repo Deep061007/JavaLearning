@@ -2,7 +2,7 @@ class Switchcase
 {
 public static void main(String [] args)
 {
-int n = 5;
+int n = 6;
 switch(n) {
 case 1:
 System.out.println("January");
