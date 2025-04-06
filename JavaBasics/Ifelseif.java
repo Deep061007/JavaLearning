@@ -2,9 +2,9 @@ class Ifelseif
 {
 public static void main(String [] args)
 {
-int x = 15;
-int y = 30;
-int z = 45;
+int x = 20;
+int y = 40;
+int z = 60;
 if(x>y && x<z){
 System.out.println(x);
 }
